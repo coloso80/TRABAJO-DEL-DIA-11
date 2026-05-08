@@ -33,6 +33,83 @@ nav a {
     text-decoration: none;
 }
 
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+
+h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+
+.sobre-mi {
+    display: flex;         
+    align-items: center;   
+    gap: 2rem;              
+    margin-top: 1rem;
+}
+
+
+.avatar {
+    width: 140px;           
+    height: auto;           
+    border-radius: 50%;    
+}
+
+article {
+    margin-bottom: 1.5rem;
+}
+
+#formacion ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+body {
+    background-image: url('../img/ciberseguridad.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+section {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2rem;
+    border-radius: 8px;
+    margin: 2rem auto;
+    max-width: 900px;
+}
+
+a {
+    color: white;          
+    
+}
+
+a:hover {
+    color: #00ffff;       
+    text-decoration: underline; 
+}
+
+
+
+
+
 
 
 
